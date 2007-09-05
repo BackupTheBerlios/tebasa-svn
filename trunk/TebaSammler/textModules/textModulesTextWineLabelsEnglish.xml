@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Introduction - Leading-in">
+		<entry key="0"></entry>
+		<entry key="1">I take the liberty of writing You because I am likewise a collector of wine labels.</entry>
+		<entry key="2">I am a collector of wine labels with special interest in ... .</entry>
+		<entry key="3">I am a member of the association ... .</entry>
+	</category>
+	<category key="2" title="Introduction - Advise of field of interest">
+		<entry key="0"></entry>
+		<entry key="4">I am interested in labels from ... .</entry>
+		<entry key="5">I am interested in labels from the wine-growing district ... .</entry>
+		<entry key="6">I am interested in labels from the wine-growing districts ... .</entry>
+	 	<entry key="7">I am interested in labels of the topic ... .</entry>
+		<entry key="8">I am interested in labels of the topics ... .</entry>
+		<entry key="9">I am collecting wine labels since ... years.</entry>
+		<entry key="10">I am collecting wine labels of ... .</entry>
+		<entry key="11">Like You I am a collector of wine labels of ... .</entry>
+		<entry key="12">I am collecting wine labels from ... .</entry>
+		<entry key="13">Like You I am collecting wine labels from ... .</entry>
+		<entry key="14">I am collecting wine labels from the wine-growing district ... .</entry>
+		<entry key="15">Like You I am a collector of wine labels from the wine-growing district ... .</entry>
+		<entry key="16">I am collecting wine labels from the wine-growing districts ... .</entry>
+		<entry key="17">Like You I am collecting wine labels from the wine-growing districts ... .</entry>
+		<entry key="18">I am collecting wine labels of the topic ... .</entry>
+		<entry key="19">Like You I am collecting wine labels of the topic ... .</entry>
+		<entry key="20">I am collecting wine labels of the topics ... .</entry>
+		<entry key="21">Like You I am collecting wine labels of the topics ... .</entry>
+		<entry key="22">My main focus lies on labels from ... .</entry>
+		<entry key="23">My main focus lies on labels from the wine-growing district ... .</entry>
+		<entry key="24">My main focus lies on labels from the wine-growing districts ... .</entry>
+		<entry key="25">My main focus lies on labels of the topic ... .</entry>
+		<entry key="26">My main focus lies on labels of the topics ... .</entry>
+	</category>
+	<category key="3" title="Introduction - Invitation in exchange">
+		<entry key="0"></entry>
+		<entry key="27">For this reason I am always looking for possibilities in exchange.</entry>
+		<entry key="28">I would be very appreciated beginning an exchange of labels with You.</entry>
+		<entry key="29">Therefore I am offering an exchange of wine labels to You.</entry>
+	</category>
+	<category key="4" title="Received letter">
+		<entry key="0"></entry>
+		<entry key="30">Thank You very much for Your last letter. (formally)</entry>
+		<entry key="31">Thank You very much for Your last letter.</entry>
+		<entry key="32">I apologize for the delay in replying to Your letter. (formally)</entry>
+		<entry key="33">I apologize for the delay in replying to Your letter.</entry>
+	</category>
+	<category key="5" title="Received labels">
+		<entry key="0"></entry>
+		<entry key="34">Thank You very much for the labels.</entry>
+		<entry key="35">I was very appreciated about them.</entry>
+		<entry key="36">They are really very beautiful.</entry>
+		<entry key="37">They are very helpful for my collection.</entry>
+		<entry key="38">They are really in line with my collection.</entry>
+	</category>
+	<category key="6" title="Offering help">
+		<entry key="0"></entry>
+		<entry key="39">I would be very appreciated helping You. (formally)</entry>
+		<entry key="40">I would be very appreciated helping You also. (formally)</entry>
+		<entry key="41">I would be very appreciated helping You.</entry>
+		<entry key="42">I would be very appreciated helping You also.</entry>
+		<entry key="43">Can I do You a favour? (formally)</entry>
+		<entry key="44">Can I do You a favour also? (formally)</entry>
+		<entry key="45">Can I do You a favour?</entry>
+		<entry key="46">Can I do You a favour also?</entry>
+		<entry key="47">If I could help You, please do not hesitate to contact me. (formally)</entry>
+		<entry key="48">If I could help You also, please do not hesitate to contact me. (formally)</entry>
+		<entry key="49">If I could help You, please do not hesitate to contact me.</entry>
+		<entry key="50">If I could help You also, please do not hesitate to contact me.</entry>
+	</category>
+	<category key="7" title="Sending labels">
+		<entry key="0"></entry>
+		<entry key="51">Herewith I take the liberty of sending You ... labels. (formally)</entry>
+		<entry key="52">Herewith I take the liberty of sending You labels from ... . (formally)</entry>
+		<entry key="53">Herewith I take the liberty of sending You labels from the wine-growing district ... . (formally)</entry>
+		<entry key="54">Herewith I take the liberty of sending You labels from the wine-growing districts ... . (formally)</entry>
+		<entry key="55">Herewith I take the liberty of sending You labels of the topic ... . (formally)</entry>
+		<entry key="56">Herewith I take the liberty of sending You labels of the topics ... . (formally)</entry>
+		<entry key="57">Herewith I take the liberty of sending You ... labels.</entry>
+		<entry key="58">Herewith I take the liberty of sending You labels from ... .</entry>
+		<entry key="59">Herewith I take the liberty of sending You labels from the wine-growing district ... .</entry>
+		<entry key="60">Herewith I take the liberty of sending You labels from the wine-growing districts ... .</entry>
+		<entry key="61">Herewith I take the liberty of sending You labels of the topic ... .</entry>
+		<entry key="62">Herewith I take the liberty of sending You labels of the topics ... .</entry>
+	</category>
+	<category key="8" title="Searching labels">
+		<entry key="0"></entry>
+		<entry key="63">I am searching for labels from ... .</entry>
+		<entry key="64">I am searching for labels from the wine-growing district ... .</entry>
+		<entry key="65">I am searching for labels from the wine-growing districts ... .</entry>
+		<entry key="66">I am searching for labels of the topic ... .</entry>
+		<entry key="67">I am searching for labels of the topics ... .</entry>
+		<entry key="68">I am searching for labels from ... in exchange.</entry>
+		<entry key="69">I am searching for labels from the wine-growing district ... in exchange.</entry>
+		<entry key="70">I am searching for labels from the wine-growing districts ... in exchange.</entry>
+		<entry key="71">I am searching for labels of the topic ... in exchange.</entry>
+		<entry key="72">I am searching for labels of the topics ... in exchange.</entry>
+	</category>
+	<category key="9" title="Asking for labels">
+		<entry key="0"></entry>
+		<entry key="73">I would be very appreciated, if You have some to give them away. (formally)</entry>
+		<entry key="74">I would be very appreciated, if You have some to give them away.</entry>
+		<entry key="75">I am hoping You can find some labels from ... for me.</entry>
+		<entry key="76">I am hoping You can find some labels from the wine-growing district ... for me.</entry>
+		<entry key="77">I am hoping You can find some labels of the topic ... for me.</entry>
+	</category>
+	<category key="10" title="Asking for more labels">
+		<entry key="0"></entry>
+		<entry key="78">If You have more labels from ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="79">If You have more labels from the wine growing district ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="80">If You have more labels of the topic ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="81">If You have more labels from ..., I would be very appreciated about them.</entry>
+		<entry key="82">If You have more labels from the wine-growing district ..., I would be very appreciated about them.</entry>
+		<entry key="83">If You have more labels of the topic ..., I would be very appreciated about them.</entry>
+		<entry key="84">If You could find more labels from ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="85">If You could find more labels from the wine-growing district ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="86">If You could find more labels of the topic ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="87">If You could find more labels from ..., I would be very appreciated about them.</entry>
+		<entry key="88">If You could find more labels from the wine-growing district ..., I would be very appreciated about them.</entry>
+		<entry key="89">If You could find more labels of the topic ..., I would be very appreciated about them.</entry>
+	</category>
+	<category key="11" title="Offering labels">
+		<entry key="0"></entry>
+		<entry key="90">I can offer labels from ... in exchange.</entry>
+		<entry key="91">I can offer labels from the wine-growing district ... in exchange.</entry>
+		<entry key="92">I can offer labels from the wine-growing districts ... in exchange.</entry>
+		<entry key="93">I can offer labels of the topic ... in exchange.</entry>
+		<entry key="94">I can offer labels of the topics ... in exchange.</entry>
+		<entry key="95">In exchange I am offering labels from the wine-growing district ... .</entry>
+		<entry key="96">In exchange I am offering labels from the wine-growing districts ... .</entry>
+		<entry key="97">In exchange I am offering labels of the topic ... .</entry>
+		<entry key="98">In exchange I am offering labels of the topics ... .</entry>
+		<entry key="99">For this purpose I am offering labels of the topic ... and from the wine-growing district ... .</entry>
+		<entry key="100">For this purpose I am offering labels of the topics ... and from the wine-growing districts ... .</entry>
+		<entry key="101">For this purpose I am offering labels of the topic ... and from the wine-growing districts ... .</entry>
+		<entry key="102">For this purpose I am offering labels of the topics ... and from the wine-growing district ... .</entry>
+	</category>
+	<category key="12" title="Enclosing labels">
+		<entry key="0"></entry>
+		<entry key="103">I am enclosing  ... labels.</entry>
+		<entry key="104">Eclosed You will find ... labels. (formally)</entry>
+		<entry key="105">Enlosed You will find labels from ... . (formally)</entry>
+		<entry key="106">Enlosed You will find labels from the wine-growing district ... . (formally)</entry>
+		<entry key="107">Enlosed You will find labels from the wine-growing districts ... . (formally)</entry>
+		<entry key="108">Enlosed You will find labels of the topic ... . (formally)</entry>
+		<entry key="109">Enlosed You will find labels of the topics ... . (formally)</entry>
+		<entry key="110">Eclosed You will find ... labels.</entry>
+		<entry key="111">Enlosed You will find labels from ... .</entry>
+		<entry key="112">Enlosed You will find labels from the wine-growing district ... .</entry>
+		<entry key="113">Enlosed You will find labels from the wine-growing districts ... .</entry>
+		<entry key="114">Enlosed You will find labels of the topic ... .</entry>
+		<entry key="115">Enlosed You will find labels of the topics ... .</entry>
+		<entry key="116">I hope, they will help You. (formally)</entry>
+		<entry key="117">I hope, they will help You.</entry>
+	</category>
+	<category key="13" title="Concluding sentences">
+		<entry key="0"></entry>
+		<entry key="118">I am looking forward hearing from You. (formally)</entry>
+		<entry key="119">I am looking forward hearing from You.</entry>
+		<entry key="120">I am looking forward hearing from You soon. (formally)</entry>
+		<entry key="121">I am looking forward hearing from You soon.</entry>
+		<entry key="122">Thank You very much.</entry>
+		<entry key="123">Thank You very much for Your effort. (formally)</entry>
+		<entry key="124">Thank You very much for Your effort.</entry>
+	</category>
+</textModule>

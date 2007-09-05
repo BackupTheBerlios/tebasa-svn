@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Achèter">
+		<entry key="0"></entry>
+		<entry key="1">(J') achéte des étiquettes de vin de vin de toute sorte.</entry>
+		<entry key="2">(J') achéte des étiquettes de vin du pays de ... .</entry>
+		<entry key="4">(J') achéte des étiquettes de vin du domaine du thème ... .</entry>
+	</category>
+	<category key="2" title="Chercher">
+		<entry key="0"></entry>
+		<entry key="6">(Je) cherche des étiquettes de vin de toute sorte.</entry>
+		<entry key="7">(Je) cherche des étiquettes de vin du pays de ... .</entry>
+		<entry key="9">(Je) cherche des étiquettes de vin du domaine du thème ... .</entry>
+		<entry key="11">(Je) cherche des étiquettes de vin du pays de ... pour échange.</entry>
+		<entry key="13">(Je) cherche des étiquettes de vin du domaine du thème ... pour échange.</entry>
+		<entry key="15">Je suis collectuer d'étiquettes de vin et je cherche les possiblités d'échange.</entry>		
+	</category>
+	<category key="3" title="Offre">
+		<entry key="0"></entry>
+		<entry key="16">(J') offre en riposte les étiquettes du pays de ... .</entry>
+		<entry key="18">(J') offre en riposte les étiquettes du domaine du thème ... .</entry>
+		<entry key="20">En plus (j') offre des étiquettes du pays de ... .</entry>
+		<entry key="22">En plus (j') offre des orchidées du domaine du thème ... .</entry>
+		<entry key="24">(J') offre des orchidées du pays de ... .</entry>
+		<entry key="26">(J') offre des orchidées du domaine du thème ... .</entry>
+	</category>
+	<category key="4" title="Information additionnelle">
+		<entry key="0"></entry>
+		<entry key="29">Liste d'échange actuelle sur demande.</entry>
+		<entry key="30">(J') envois ma liste d'échange actuelle sur demande.</entry>
+	</category>
+</textModule>

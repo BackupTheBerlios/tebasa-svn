@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Buying">
+		<entry key="0"></entry>
+		<entry key="1">I am buying all kind of orchids.</entry>
+		<entry key="2">I am buying ... orchids.</entry>
+	</category>
+	<category key="2" title="Searching">
+		<entry key="0"></entry>
+		<entry key="3">I am looking for all kind of orchids.</entry>
+		<entry key="4">I am looking for orchids in exchange.</entry>
+		<entry key="5">I am looking for orchids from ... .</entry>
+		<entry key="6">I am looking for ... orchids.</entry>
+		<entry key="7">I am looking for orchids from ... in exchange.</entry>
+		<entry key="8">I am looking for ... orchids in exchange.</entry>
+		<entry key="9">I am a collector of orchids and looking for possibilities in exchange.</entry>
+	</category>
+	<category key="3" title="Additional information">
+		<entry key="0"></entry>
+		<entry key="10">This should be from ... .</entry>
+		<entry key="11">This should be ... .</entry>
+		<entry key="12">In return I am offering orchids from ... .</entry>
+		<entry key="13">In return I am offering ... orchids.</entry>
+		<entry key="14">Thereto I am offering orchids from ... .</entry>
+		<entry key="15">Thereto I am offering ... orchids.</entry>
+		<entry key="16">I am offering orchids from ... .</entry>
+		<entry key="17">I am offering ... orchids.</entry>
+		<entry key="18">Updated exchange list on enquiry.</entry>
+		<entry key="19">I will send my exchange list on enquiry.</entry>
+	</category>
+</textModule>

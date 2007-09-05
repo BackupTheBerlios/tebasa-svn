@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Buying">
+		<entry key="0"></entry>
+		<entry key="1">I am buying all kind of wine labels.</entry>
+		<entry key="2">I am buying wine labels from the wine-growing district ... .</entry>
+		<entry key="3">I am buying wine labels from the wine-growing districts ... .</entry>
+		<entry key="4">I am buying wine labels of the topic ... .</entry>
+		<entry key="5">I am buying wine labels of the topics ... .</entry>
+	</category>
+	<category key="2" title="Searching">
+		<entry key="0"></entry>
+		<entry key="6">I am looking for all kind of wine labels.</entry>
+		<entry key="7">I am looking for wine labels from the wine-growing district ... .</entry>
+		<entry key="8">I am looking for wine labels from the wine-growing districts ... .</entry>
+		<entry key="9">I am looking for wine labels of the topic ... .</entry>
+		<entry key="10">I am looking for wine labels of the topics ... .</entry>
+		<entry key="11">I am looking for wine labels from the wine-growing district ... in exchange.</entry>
+		<entry key="12">I am looking for wine labels from the wine-growing districts ... in exchange.</entry>
+		<entry key="13">I am looking for wine labels of the topic ... in exchange.</entry>
+		<entry key="14">I am looking for wine labels of the topics ... in exchange.</entry>
+		<entry key="15">I am a collector of wine labels and looking for possibilities in exchange.</entry>
+	</category>
+	<category key="3" title="Offering">
+		<entry key="0"></entry>
+		<entry key="16">In return I am offering labels from the wine-growing district ... .</entry>
+		<entry key="17">In return I am offering labels from the wine-growing districts ... .</entry>
+		<entry key="18">In return I am offering labels of the topic ... .</entry>
+		<entry key="19">In return I am offering labels of the topics ... .</entry>
+		<entry key="20">Thereto I am offering labels from the wine-growing district ... .</entry>
+		<entry key="21">Thereto I am offering labels from the wine-growing districts ... .</entry>
+		<entry key="22">Thereto I am offering labels of the topic ... .</entry>
+		<entry key="23">Thereto I am offering labels of the topics ... .</entry>
+		<entry key="24">I am offering labels from the wine-growing district ... .</entry>
+		<entry key="25">I am offering labels from the wine-growing districts ... .</entry>
+		<entry key="26">I am offering labels of the topic ... .</entry>
+		<entry key="27">I am offering labels of the topics ... .</entry>
+		<entry key="28">I am offering labels from the wine-growing districts and the countries ... .</entry>
+	</category>
+	<category key="4" title="Additional information">		
+		<entry key="0"></entry>
+		<entry key="29">Updated exchange list on enquiry.</entry>
+		<entry key="30">I will send my exchange list on enquiry.</entry>
+	</category>
+</textModule>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Kaufen">
+		<entry key="0"></entry>
+		<entry key="1">Kaufe Weinetiketten aller Art.</entry>
+		<entry key="2">Kaufe Weinetiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="3">Kaufe Weinetiketten aus den Anbaugebieten ... .</entry>
+		<entry key="4">Kaufe Weinetiketten aus dem Themengebiet ... .</entry>
+		<entry key="5">Kaufe Weinetiketten aus den Themengebieten ... .</entry>
+	</category>
+	<category key="2" title="Suchen">
+		<entry key="0"></entry>
+		<entry key="6">Suche Weinetiketten aller Art.</entry>
+		<entry key="7">Suche Weinetiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="8">Suche Weinetiketten aus den Anbaugebieten ... .</entry>
+		<entry key="9">Suche Weinetiketten aus dem Themengebiet ... .</entry>
+		<entry key="10">Suche Weinetiketten aus den Themengebieten ... .</entry>
+		<entry key="11">Suche Weinetiketten aus dem Anbaugebiet ... zum Tausch.</entry>
+		<entry key="12">Suche Weinetiketten aus den Anbaugebieten ... zum Tausch.</entry>
+		<entry key="13">Suche Weinetiketten aus dem Themengebiet ... zum Tausch.</entry>
+		<entry key="14">Suche Weinetiketten aus den Themengebieten ... zum Tausch.</entry>
+		<entry key="15">Ich bin Weinetiketten-Sammler und suche Tauschmöglichkeiten.</entry>		
+	</category>
+	<category key="3" title="Bieten">
+		<entry key="0"></entry>
+		<entry key="16">Biete im Gegenzug Etiketten aus dem Anbaugebiet ... an.</entry>
+		<entry key="17">Biete im Gegenzug Etiketten aus den Anbaugebieten ... an.</entry>
+		<entry key="18">Biete im Gegenzug Etiketten aus dem Themengebiet ... an.</entry>
+		<entry key="19">Biete im Gegenzug Etiketten aus den Themengebieten ... an.</entry>
+		<entry key="20">Dazu biete ich Etiketten aus dem Anbaugebiet ... an.</entry>
+		<entry key="21">Dazu biete ich Etiketten aus den Anbaugebieten ... an.</entry>
+		<entry key="22">Dazu biete ich Etiketten aus dem Themengebiet ... an.</entry>
+		<entry key="23">Dazu biete ich Etiketten aus den Themengebieten ... an.</entry>
+		<entry key="24">Biete Weinetiketten aus dem Anbaugebiet ... an.</entry>
+		<entry key="25">Biete Weinetiketten aus den Anbaugebieten ... an.</entry>
+		<entry key="26">Biete Weinetiketten aus dem Themengebiet ... an.</entry>
+		<entry key="27">Biete Weinetiketten aus den Themengebieten ... an.</entry>
+		<entry key="28">Biete Weinetiketten aus den Anbaugebieten ... und aus den Ländern ... an.</entry>
+	</category>
+	<category key="4" title="Zusätzliche Informationen">		
+		<entry key="0"></entry>
+		<entry key="29">Aktuelle Tauschliste auf Anfrage.</entry>
+		<entry key="30">Meine aktuelle Tauschliste schicke ich auf Anfrage zu.</entry>
+	</category>
+</textModule>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Vorstellung - Einleitung">
+		<entry key="0"></entry>
+		<entry key="1">Ich erlaube mir, Ihnen zu schreiben, da ich wie Sie ein Orchideen-Sammler bin.</entry>
+		<entry key="2">Ich bin Mitglied des Vereins ... .</entry>
+	</category>
+	<category key="2" title="Vorstellung - Eigenes Interessengebiet mitteilen">
+		<entry key="0"></entry>
+		<entry key="3">Ich interessiere mich für ... Orchideen.</entry>
+		<entry key="4">Ich interessiere mich für Orchideen aus ... .</entry>
+		<entry key="5">Ich sammle Orchideen seit ... Jahren.</entry>
+		<entry key="6">Ich sammle ... Orchideen</entry>
+		<entry key="7">Ich sammle Orchideen aus ... .</entry>
+		<entry key="8">Ich sammle ebenfalls Orchideen.</entry>
+		<entry key="9">Ich sammle ebenfalls ... Orchideen</entry>
+		<entry key="10">Ich sammle ebenfalls Orchideen aus ... .</entry>
+		<entry key="11">Mein Hauptaugenmerk liegt auf ... Orchideen</entry>
+		<entry key="12">Mein Hauptaugenmerk liegt auf Orchideen aus ... .</entry>
+	</category>
+	<category key="3" title="Vorstellung - Aufforderung zum Tausch">
+		<entry key="0"></entry>
+		<entry key="13">Daher suche ich immer Tauschmöglichkeiten.</entry>
+		<entry key="14">Ich würde mich sehr freuen, mit Ihnen mit dem Tausch von Orchideen beginnen zu können.</entry>
+		<entry key="15">Daher biete ich Ihnen an, mit dem Tausch von Orchideen zu beginnen.</entry>
+	</category>
+	<category key="4" title="Erhaltener Brief">
+		<entry key="0"></entry>
+		<entry key="16">Vielen Dank für Ihren letzten Brief.</entry>
+		<entry key="17">Vielen Dank für Deinen letzten Brief.</entry>
+		<entry key="18">Bitte entschuldigen Sie, dass ich so spät antworte.</entry>
+		<entry key="19">Bitte entschuldige, dass ich so spät antworte.</entry>
+	</category>
+	<category key="5" title="Erhaltene Orchideen">
+		<entry key="0"></entry>
+		<entry key="20">Vielen Dank für die Orchideen.</entry>
+		<entry key="21">Ich habe mich über diese sehr gefreut.</entry>
+		<entry key="22">Sie sind wirklich sehr schön.</entry>
+		<entry key="23">Sie sind sehr nützlich für meine Sammlung.</entry>
+		<entry key="24">Sie passen sehr gut in meine Sammlung.</entry>
+	</category>
+	<category key="6" title="Hilfe anbieten">
+		<entry key="0"></entry>
+		<entry key="25">Wenn ich Ihnen behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="26">Wenn ich Ihnen ebenfalls behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="27">Wenn ich Dir behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="28">Wenn ich Dir ebenfalls behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="29">Kann ich Ihnen einen Gefallen tun?</entry>
+		<entry key="30">Kann ich Ihnen ebenfalls einen Gefallen tun?</entry>
+		<entry key="31">Kann ich Dir einen Gefallen tun?</entry>
+		<entry key="32">Kann ich Dir ebenfalls einen Gefallen tun?</entry>
+		<entry key="33">Lassen Sie es mich wissen, wenn ich Ihnen behilflich sein kann.</entry>
+		<entry key="34">Lassen Sie es mich wissen, wenn ich Ihnen ebenfalls behilflich sein kann.</entry>
+		<entry key="35">Lass es mich wissen, wenn ich Dir behilflich sein kann.</entry>
+		<entry key="36">Lass es mich wissen, wenn ich Dir ebenfalls behilflich sein kann.</entry>
+	</category>
+	<category key="7" title="Senden von Orchideen">
+		<entry key="0"></entry>
+		<entry key="37">Hiermit erlaube ich mir, Ihnen ... Orchids zukommen zu lassen.</entry>
+		<entry key="38">Hiermit erlaube ich mir, Ihnen Orchids aus ... zukommen zu lassen.</entry>
+		<entry key="39">Hiermit erlaube ich mir, Dir ... Orchids zukommen zu lassen.</entry>
+		<entry key="40">Hiermit erlaube ich mir, Dir Orchids aus ... zukommen zu lassen.</entry>
+	</category>
+	<category key="8" title="Suchen von Orchideen">
+		<entry key="0"></entry>
+		<entry key="41">Ich suche Orchideen aus ... .</entry>
+		<entry key="42">Ich suche ... Orchideen.</entry>
+		<entry key="43">Ich suche Orchideen aus ... zum Tausch.</entry>
+		<entry key="44">Ich suche ... Orchideen zum Tausch.</entry>
+	</category>
+	<category key="9" title="Nach Orchideen erkundigen">
+		<entry key="0"></entry>
+		<entry key="45">Wenn Sie welche abzugeben hätten, würde ich mich sehr freuen.</entry>
+		<entry key="46">Wenn Du welche abzugeben hättest, würde ich mich sehr freuen.</entry>
+	</category>
+	<category key="10" title="Nach mehr Orchideen erkundigen">
+		<entry key="0"></entry>
+		<entry key="47">Wenn Sie mehr Orchideen aus ... haben, wäre ich sehr dankbar für diese.</entry>	
+		<entry key="48">Wenn Sie mehr ... Orchideen haben, wäre ich sehr dankbar für diese.</entry>
+		<entry key="49">Wenn Du mehr Orchideen aus ... hast, wäre ich sehr dankbar für diese.</entry>	
+		<entry key="50">Wenn Du mehr ... Orchideen hast, wäre ich sehr dankbar für diese.</entry>
+		<entry key="51">Wenn Sie mehr Orchideen aus ... finden können, wäre ich sehr dankbar für diese.</entry>
+		<entry key="52">Wenn Sie mehr ... Orchideen finden können, wäre ich sehr dankbar für diese.</entry>
+		<entry key="53">Wenn Du mehr Orchideen aus ... finden kannst, wäre ich sehr dankbar für diese.</entry>
+		<entry key="54">Wenn Du mehr ... Orchideen finden kannst, wäre ich sehr dankbar für diese.</entry>
+	</category>
+	<category key="11" title="Orchideen anbieten">
+		<entry key="0"></entry>
+		<entry key="55">Selber kann ich aus ... Orchideen zum Tausch anbieten.</entry>
+		<entry key="56">Selber kann ich ... Orchideen zum Tausch anbieten.</entry>
+		<entry key="57">Zum Tausch biete ich Orchideen aus ... an.</entry>
+		<entry key="58">Zum Tausch biete ich ... Orchideen an.</entry>
+		<entry key="59">Dazu biete ich Orchideen aus ... an.</entry>
+		<entry key="60">Dazu biete ich ... Orchideen an.</entry>
+	</category>
+	<category key="12" title="Orchideen mitsenden">
+		<entry key="0"></entry>
+		<entry key="61">Ich sende Ihnen ... Orchideen.</entry>
+		<entry key="62">Ich sende Ihnen Orchideen aus ... .</entry>
+		<entry key="63">Ich sende Dir ... Orchideen.</entry>
+		<entry key="64">Ich sende Dir Orchideen aus ... .</entry>
+		<entry key="65">Ich sende Ihnen hiermit ... Orchideen.</entry>
+		<entry key="66">Ich sende Ihnen hiermit Orchideen aus ... .</entry>
+		<entry key="67">Ich sende Dir hiermit ... Orchideen.</entry>
+		<entry key="68">Ich sende Dir hiermit Orchideen aus ... .</entry>
+		<entry key="69">Ich hoffe, sie helfen Ihnen weiter.</entry>
+		<entry key="70">Ich hoffe, sie helfen Dir weiter.</entry>
+	</category>
+	<category key="13" title="Abschlusssätze">
+		<entry key="0"></entry>
+		<entry key="71">Ich freue mich auf Ihre Antwort.</entry>
+		<entry key="72">Ich freue mich auf Deine Antwort.</entry>
+		<entry key="73">Ich hoffe, bald von Ihnen zu hören.</entry>
+		<entry key="74">Ich hoffe, bald von Dir zu hören.</entry>
+		<entry key="75">Vielen Dank.</entry>
+		<entry key="76">Vielen Dank für Ihre Mühe.</entry>
+		<entry key="77">Vielen Dank für Deine Mühe.</entry>
+	</category>
+</textModule>

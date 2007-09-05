@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Introduction - Leading-in">
+		<entry key="0"></entry>
+		<entry key="1">I take the liberty of writing You because I am likewise a collector of orchids.</entry>
+		<entry key="2">I am a member of the association ... .</entry>
+	</category>
+	<category key="2" title="Introduction - Advise of field of interest">
+		<entry key="0"></entry>
+		<entry key="3">I am interested in ... orchids.</entry>
+		<entry key="4">I am interested in orchids from ... .</entry>
+		<entry key="5">I am collecting orchids since ... years.</entry>
+		<entry key="6">I am collecting ... orchids.</entry>
+		<entry key="7">I am collecting orchids from ... .</entry>
+		<entry key="8">Like You I am collecting orchids.</entry>
+		<entry key="9">Like You I am collecting ... orchids.</entry>
+		<entry key="10">Like You I am collecting orchids from ... .</entry>
+		<entry key="11">My main focus lies on ... orchids.</entry>
+		<entry key="12">My main focus lies on orchids from ... .</entry>
+	</category>
+	<category key="3" title="Introduction - Invitation in exchange">
+		<entry key="0"></entry>
+		<entry key="13">For this reason I am always looking for possibilities in exchange.</entry>
+		<entry key="14">I would be very appreciated beginning an exchange of orchids with You.</entry>
+		<entry key="15">Therefore I am offering an exchange of orchids to You.</entry>
+	</category>
+	<category key="4" title="Received letter">
+		<entry key="0"></entry>
+		<entry key="16">Thank You very much for Your last letter. (formally)</entry>
+		<entry key="17">Thank You very much for Your last letter.</entry>
+		<entry key="18">I apologize for the delay in replying to Your letter. (formally)</entry>
+		<entry key="19">I apologize for the delay in replying to Your letter.</entry>
+	</category>
+	<category key="5" title="Received orchids">
+		<entry key="0"></entry>
+		<entry key="20">Thank You very much for the orchids.</entry>
+		<entry key="21">I was very appreciated about them.</entry>
+		<entry key="22">They are really very beautiful.</entry>
+		<entry key="23">They are very helpful for my collection.</entry>
+		<entry key="24">They are really in line with my collection.</entry>
+	</category>
+	<category key="6" title="Offering help">
+		<entry key="0"></entry>
+		<entry key="25">I would be very appreciated helping You. (formally)</entry>
+		<entry key="26">I would be very appreciated helping You also. (formally)</entry>
+		<entry key="27">I would be very appreciated helping You.</entry>
+		<entry key="28">I would be very appreciated helping You also.</entry>
+		<entry key="29">Can I do You a favour? (formally)</entry>
+		<entry key="30">Can I do You a favour also? (formally)</entry>
+		<entry key="31">Can I do You a favour?</entry>
+		<entry key="32">Can I do You a favour also?</entry>
+		<entry key="33">If I could help You, please do not hesitate to contact me. (formally)</entry>
+		<entry key="34">If I could help You also, please do not hesitate to contact me. (formally)</entry>
+		<entry key="35">If I could help You, please do not hesitate to contact me.</entry>
+		<entry key="36">If I could help You also, please do not hesitate to contact me.</entry>
+	</category>
+	<category key="7" title="Sending orchids">		
+		<entry key="0"></entry>
+		<entry key="37">Herewith I take the liberty of sending You ... orchids. (formally)</entry>
+		<entry key="38">Herewith I take the liberty of sending You orchids from ... . (formally)</entry>
+		<entry key="39">Herewith I take the liberty of sending You ... orchids.</entry>
+		<entry key="40">Herewith I take the liberty of sending You orchids from ... .</entry>
+	</category>
+	<category key="8" title="Searching orchids">
+		<entry key="0"></entry>
+		<entry key="41">I am searching for orchids from ... .</entry>
+		<entry key="42">I am searching for ... orchids.</entry>
+		<entry key="43">I am searching for orchids from ... in exchange.</entry>
+		<entry key="44">I am searching for ... orchids in exchange.</entry>
+	</category>
+	<category key="9" title="Asking for orchids">
+		<entry key="0"></entry>
+		<entry key="45">I would be very appreciated, if You have some to give them away. (formal)</entry>
+		<entry key="46">I would be very appreciated, if You have some to give them away.</entry>
+	</category>
+	<category key="10" title="Asking for more orchids">
+		<entry key="0"></entry>
+		<entry key="47">If You have more orchids from ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="48">If You have more ... orchids, I would be very appreciated about them. (formally)</entry>
+		<entry key="49">If You have more orchids from ..., I would be very appreciated about them.</entry>	
+		<entry key="50">If You have more ... orchids, I would be very appreciated about them.</entry>
+		<entry key="51">If You could find more orchids from ..., I would be very appreciated about them. (formally)</entry>
+		<entry key="52">If You could find more ... orchids, I would be very appreciated about them. (formally)</entry>
+		<entry key="53">If You could find more orchids from ..., I would be very appreciated about them.</entry>
+		<entry key="54">If You could find more ... orchids, I would be very appreciated about them.</entry>
+	</category>
+	<category key="11" title="Offering orchids">
+		<entry key="0"></entry>
+		<entry key="55">I can offer orchids from ... in exchange.</entry>
+		<entry key="56">I can offer ... orchids in exchange.</entry>
+		<entry key="57">In exchange I am offering orchids from ... .</entry>
+		<entry key="58">In exchange I am offering ... orchids.</entry>
+		<entry key="59">For this purpose I am offering orchids from ... .</entry>
+		<entry key="60">For this purpose I am offering ... orchids.</entry>
+	</category>
+	<category key="12" title="Enclosing orchids">
+		<entry key="0"></entry>
+		<entry key="61">I am sending You ... orchids. (formally)</entry>
+		<entry key="62">I am sending You orchids from ... . (formally)</entry>
+		<entry key="63">I am sending You ... orchids.</entry>
+		<entry key="64">I am sending You orchids from ... .</entry>
+		<entry key="65">Herewith I am sending You ... orchids. (formally)</entry>
+		<entry key="66">Herewith I am sending You orchids from ... . (formally)</entry>
+		<entry key="67">Herewith I am sending You ... orchids.</entry>
+		<entry key="68">Herewith I am sending You orchids from ... .</entry>
+		<entry key="69">I hope, they will help You. (formally)</entry>
+		<entry key="70">I hope, they will help You.</entry>
+	</category>
+	<category key="13" title="Concluding sentences">
+		<entry key="0"></entry>
+		<entry key="71">I am looking forward hearing from You. (formally)</entry>
+		<entry key="72">I am looking forward hearing from You.</entry>
+		<entry key="73">I am looking forward hearing from You soon. (formally)</entry>
+		<entry key="74">I am looking forward hearing from You soon.</entry>
+		<entry key="75">Thank You very much.</entry>
+		<entry key="76">Thank You very much for Your effort. (formally)</entry>
+		<entry key="77">Thank You very much for Your effort.</entry>
+	</category>
+</textModule>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Vorstellung - Einleitung">
+		<entry key="0"></entry>
+		<entry key="1">Ich erlaube mir, Ihnen zu schreiben, da ich wie Sie ein Weinetiketten-Sammler bin.</entry>
+		<entry key="2">Ich bin Weinetiketten-Sammler mit dem besonderen Sammelgebiet ... .</entry>
+		<entry key="3">Ich bin Mitglied des Vereins ... .</entry>
+	</category>
+	<category key="2" title="Vorstellung - Eigenes Interessengebiet mitteilen">
+		<entry key="0"></entry>
+		<entry key="4">Ich interessiere mich für Etiketten aus dem ... .</entry>
+		<entry key="5">Ich interessiere mich für Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="6">Ich interessiere mich für Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="7">Ich interessiere mich für Etiketten aus dem Themengebiet ... .</entry>
+		<entry key="8">Ich interessiere mich für Etiketten aus den Themengebieten ... .</entry>
+		<entry key="9">Ich sammle Etiketten seit ... Jahren.</entry>
+		<entry key="10">Ich sammle Etiketten von ... .</entry>
+		<entry key="11">Ich sammle ebenfalls Etiketten von ... .</entry>
+		<entry key="12">Ich sammle Etiketten aus dem ... .</entry>
+		<entry key="13">Ich sammle ebenfalls Etiketten aus dem ... .</entry>
+		<entry key="14">Ich sammle Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="15">Ich sammle ebenfalls Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="16">Ich sammle Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="17">Ich sammle ebenfalls Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="18">Ich sammle Etiketten aus dem Themengebiet ... .</entry>
+		<entry key="19">Ich sammle ebenfalls Etiketten aus dem Themengebiet ... .</entry>
+		<entry key="20">Ich sammle Etiketten aus den Themengebieten ... .</entry>
+		<entry key="21">Ich sammle ebenfalls Etiketten aus den Themengebieten ... .</entry>
+		<entry key="22">Mein Hauptaugenmerk liegt auf Etiketten aus dem ... .</entry>
+		<entry key="23">Mein Hauptaugenmerk liegt auf Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="24">Mein Hauptaugenmerk liegt auf Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="25">Mein Hauptaugenmerk liegt auf Etiketten aus dem Themengebiet ... . </entry>
+		<entry key="26">Mein Hauptaugenmerk liegt auf Etiketten aus den Themengebieten ... . </entry>
+	</category>
+	<category key="3" title="Vorstellung - Aufforderung zum Tausch">
+		<entry key="0"></entry>
+		<entry key="27">Daher suche ich immer Tauschmöglichkeiten.</entry>
+		<entry key="28">Ich würde mich sehr freuen, mit Ihnen mit dem Tausch von Etiketten beginnen zu können.</entry>
+		<entry key="29">Daher biete ich Ihnen einen Tausch von Etiketten an.</entry>
+	</category>
+	<category key="4" title="Erhaltener Brief">
+		<entry key="0"></entry>
+		<entry key="30">Vielen Dank für Ihren letzten Brief.</entry>
+		<entry key="31">Vielen Dank für Deinen letzten Brief.</entry>
+		<entry key="32">Bitte entschuldigen Sie, dass ich so spät antworte.</entry>
+		<entry key="33">Bitte entschuldige, dass ich so spät antworte.</entry>
+	</category>
+	<category key="5" title="Erhaltene Etiketten">
+		<entry key="0"></entry>
+		<entry key="34">Vielen Dank für die Etiketten.</entry>
+		<entry key="35">Ich habe mich über diese sehr gefreut.</entry>
+		<entry key="36">Sie sind wirklich sehr schön.</entry>
+		<entry key="37">Sie sind sehr nützlich für meine Sammlung.</entry>
+		<entry key="38">Sie passen sehr gut in meine Sammlung.</entry>
+	</category>
+	<category key="6" title="Hilfe anbieten">
+		<entry key="0"></entry>
+		<entry key="39">Wenn ich Ihnen behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="40">Wenn ich Ihnen ebenfalls behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="41">Wenn ich Dir behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="42">Wenn ich Dir ebenfalls behilflich sein kann, würde ich mich sehr freuen.</entry>
+		<entry key="43">Kann ich Ihnen einen Gefallen tun?</entry>
+		<entry key="44">Kann ich Ihnen ebenfalls einen Gefallen tun?</entry>
+		<entry key="45">Kann ich Dir einen Gefallen tun?</entry>
+		<entry key="46">Kann ich Dir ebenfalls einen Gefallen tun?</entry>
+		<entry key="47">Lassen Sie es mich wissen, wenn ich Ihnen behilflich sein kann.</entry>
+		<entry key="48">Lassen Sie es mich wissen, wenn ich Ihnen ebenfalls behilflich sein kann.</entry>
+		<entry key="49">Lass es mich wissen, wenn ich Dir behilflich sein kann.</entry>
+		<entry key="50">Lass es mich wissen, wenn ich Dir ebenfalls behilflich sein kann.</entry>
+	</category>
+	<category key="7" title="Senden von Etiketten">
+		<entry key="0"></entry>
+		<entry key="51">Hiermit erlaube ich mir, Ihnen ... Etiketten zukommen zu lassen.</entry>
+		<entry key="52">Hiermit erlaube ich mir, Ihnen Etiketten aus dem ... zukommen zu lassen.</entry>
+		<entry key="53">Hiermit erlaube ich mir, Ihnen Etiketten aus dem Anbaugebiet ... zukommen zu lassen.</entry>
+		<entry key="54">Hiermit erlaube ich mir, Ihnen Etiketten aus den Anbaugebieten ... zukommen zu lassen.</entry>
+		<entry key="55">Hiermit erlaube ich mir, Ihnen Etiketten aus dem Themengebiet ... zukommen zu lassen.</entry>
+		<entry key="56">Hiermit erlaube ich mir, Ihnen Etiketten aus den Themengebieten ... zukommen zu lassen.</entry>
+		<entry key="57">Hiermit erlaube ich mir, Dir ... Etiketten zukommen zu lassen.</entry>
+		<entry key="58">Hiermit erlaube ich mir, Dir Etiketten aus dem ... zukommen zu lassen.</entry>
+		<entry key="59">Hiermit erlaube ich mir, Dir Etiketten aus dem Anbaugebiet ... zukommen zu lassen.</entry>
+		<entry key="60">Hiermit erlaube ich mir, Dir Etiketten aus den Anbaugebieten ... zukommen zu lassen.</entry>
+		<entry key="61">Hiermit erlaube ich mir, Dir Etiketten aus dem Themengebiet ... zukommen zu lassen.</entry>
+		<entry key="62">Hiermit erlaube ich mir, Dir Etiketten aus den Themengebieten ... zukommen zu lassen.</entry>
+	</category>
+	<category key="8" title="Suchen von Etiketten">
+		<entry key="0"></entry>
+		<entry key="63">Ich suche Weinetiketten aus dem ... .</entry>
+		<entry key="64">Ich suche Weinetiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="65">Ich suche Weinetiketten aus den Anbaugebieten ... .</entry>
+		<entry key="66">Ich suche Weinetiketten aus dem Themengebiet ... .</entry>
+		<entry key="67">Ich suche Weinetiketten aus den Themengebieten ... .</entry>
+		<entry key="68">Ich suche Weinetiketten aus dem ... zum Tausch.</entry>
+		<entry key="69">Ich suche Weinetiketten aus dem Anbaugebiet ... zum Tausch.</entry>
+		<entry key="70">Ich suche Weinetiketten aus den Anbaugebieten ... zum Tausch.</entry>
+		<entry key="71">Ich suche Weinetiketten aus dem Themengebiet ... zum Tausch.</entry>
+		<entry key="72">Ich suche Weinetiketten aus den Themengebieten ... zum Tausch.</entry>
+	</category>
+	<category key="9" title="Nach Etiketten erkundigen">
+		<entry key="0"></entry>
+		<entry key="73">Wenn Sie welche abzugeben hätten, würde ich mich sehr freuen.</entry>
+		<entry key="74">Wenn Du welche abzugeben hättest, würde ich mich sehr freuen.</entry>
+		<entry key="75">Ich hoffe, Du kannst für mich etwas aus dem ... für mich aufstöbern.</entry>
+		<entry key="76">Ich hoffe, Du kannst für mich aus dem Anbaugebiet ... etwas für mich aufstöbern.</entry>
+		<entry key="77">Ich hoffe, Du kannst für mich aus dem Themengebiet ... etwas für mich aufstöbern.</entry>
+	</category>
+	<category key="10" title="Nach mehr Etiketten erkundigen">
+		<entry key="0"></entry>
+		<entry key="78">Wenn Sie mehr Etiketten aus dem ... haben, wäre ich sehr dankbar für diese.</entry>	
+		<entry key="79">Wenn Sie mehr Etiketten aus dem Anbaugebiet ... haben, wäre ich sehr dankbar für diese.</entry>
+		<entry key="80">Wenn Sie mehr Etiketten aus dem Themengebiet ... haben, wäre ich sehr dankbar für diese.</entry>
+		<entry key="81">Wenn Du mehr Etiketten aus dem ... hast, wäre ich sehr dankbar für diese.</entry>
+		<entry key="82">Wenn Du mehr Etiketten aus dem Anbaugebiet ... hast, wäre ich sehr dankbar für diese.</entry>
+		<entry key="83">Wenn Du mehr Etiketten aus dem Themengebiet ... hast, wäre ich sehr dankbar für diese.</entry>
+		<entry key="84">Wenn Sie mehr Etiketten aus dem ... finden können, wäre ich sehr dankbar für diese.</entry>
+		<entry key="85">Wenn Sie mehr Etiketten aus dem Anbaugebiet ... finden können, wäre ich sehr dankbar für diese.</entry>
+		<entry key="86">Wenn Sie mehr Etiketten aus dem Themengebiet ... finden können, wäre ich sehr dankbar für diese.</entry>
+		<entry key="87">Wenn Du mehr Etiketten aus dem ... finden kannst, wäre ich sehr dankbar für diese.</entry>
+		<entry key="88">Wenn Du mehr Etiketten aus dem Anbaugebiet ... finden kannst, wäre ich sehr dankbar für diese.</entry>
+		<entry key="89">Wenn Du mehr Etiketten aus dem Themengebiet ... finden kannst, wäre ich sehr dankbar für diese.</entry>
+	</category>
+	<category key="11" title="Etiketten anbieten">
+		<entry key="0"></entry>
+		<entry key="90">Selber kann ich aus dem ... Etiketten zum Tausch anbieten.</entry>
+		<entry key="91">Selber kann ich aus dem Anbaugebiet ... Etiketten zum Tausch anbieten.</entry>
+		<entry key="92">Selber kann ich aus den Anbaugebieten ... Etiketten zum Tausch anbieten.</entry>
+		<entry key="93">Selber kann ich aus dem Themengebiet ... Etiketten zum Tausch anbieten.</entry>
+		<entry key="94">Selber kann ich aus den Themengebieten ... Etiketten zum Tausch anbieten.</entry>
+		<entry key="95">Zum Tausch biete ich Etiketten aus dem Anbaugebiet ... an.</entry>
+		<entry key="96">Zum Tausch biete ich Etiketten aus den Anbaugebieten ... an.</entry>
+		<entry key="97">Zum Tausch biete ich Etiketten aus dem Themengebiet ... an.</entry>
+		<entry key="98">Zum Tausch biete ich Etiketten aus den Themengebieten ... an.</entry>
+		<entry key="99">Dazu biete ich Weinetiketten aus dem Themengebiet ... und aus dem Anbaugebiet ... an.</entry>
+		<entry key="100">Dazu biete ich Weinetiketten aus den Themengebieten ... und aus den Anbaugebieten ... an.</entry>
+		<entry key="101">Dazu biete ich Weinetiketten aus dem Themengebiet ... und aus den Anbaugebieten ... an.</entry>
+		<entry key="102">Dazu biete ich Weinetiketten aus den Themengebieten ... und aus dem Anbaugebiet ... an.</entry>
+	</category>
+	<category key="12" title="Etiketten beilegen">
+		<entry key="0"></entry>
+		<entry key="103">Ich lege .. Etiketten bei.</entry>
+		<entry key="104">Anbei finden Sie ... Etiketten.</entry>
+		<entry key="105">Anbei finden Sie Etiketten aus dem ... .</entry>
+		<entry key="106">Anbei finden Sie Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="107">Anbei finden Sie Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="108">Anbei finden Sie Etiketten aus dem Themengebiet ... .</entry>
+		<entry key="109">Anbei finden Sie Etiketten aus den Themengebieten ... .</entry>
+		<entry key="110">Anbei findest Du ... Etiketten.</entry>
+		<entry key="111">Anbei findest Du Etiketten aus dem ... .</entry>
+		<entry key="112">Anbei findest Du Etiketten aus dem Anbaugebiet ... .</entry>
+		<entry key="113">Anbei findest Du Etiketten aus den Anbaugebieten ... .</entry>
+		<entry key="114">Anbei findest Du Etiketten aus dem Themengebiet ... .</entry>
+		<entry key="115">Anbei findest Du Etiketten aus den Themengebieten ... .</entry>
+		<entry key="116">Ich hoffe, sie helfen Ihnen weiter.</entry>
+		<entry key="117">Ich hoffe, sie helfen Dir weiter.</entry>
+	</category>
+	<category key="13" title="Abschlusssätze">
+		<entry key="0"></entry>
+		<entry key="118">Ich freue mich auf Ihre Antwort.</entry>
+		<entry key="119">Ich freue mich auf Deine Antwort.</entry>
+		<entry key="120">Ich hoffe, bald von Ihnen zu hören.</entry>
+		<entry key="121">Ich hoffe, bald von Dir zu hören.</entry>
+		<entry key="122">Vielen Dank.</entry>
+		<entry key="123">Vielen Dank für Ihre Mühe.</entry>
+		<entry key="124">Vielen Dank für Deine Mühe.</entry>
+	</category>
+</textModule>

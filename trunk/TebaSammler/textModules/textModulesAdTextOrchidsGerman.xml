@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Kaufen">
+		<entry key="0"></entry>
+		<entry key="1">Kaufe Orchideen aller Art.</entry>
+		<entry key="2">Kaufe Orchideen aus dem Bereich ... .</entry>
+	</category>
+	<category key="2" title="Suchen">
+		<entry key="0"></entry>
+		<entry key="3">Suche Orchideen aller Art.</entry>
+		<entry key="4">Suche Orchideen zum Tausch.</entry>
+		<entry key="5">Suche Orchideen aus ... .</entry>
+		<entry key="6">Suche ... Orchideen.</entry>
+		<entry key="7">Suche Orchideen aus ... zum Tausch.</entry>
+		<entry key="8">Suche ... Orchideen zum Tausch.</entry>
+		<entry key="9">Ich bin Orchideen-Sammler und suche Tauschmöglichkeiten.</entry>
+	</category>
+	<category key="3" title="Zusätzliche Informationen">
+		<entry key="0"></entry>
+		<entry key="10">Diese sollten aus ... .</entry>
+		<entry key="11">Diese sollten ... sein.</entry>		
+		<entry key="12">Biete im Gegenzug aus ... Orchideen an.</entry>
+		<entry key="13">Biete im Gegenzug ... Orchideen an.</entry>
+		<entry key="14">Dazu biete ich Orchideen aus ... an.</entry>
+		<entry key="15">Dazu biete ich ... Orchideen.</entry>
+		<entry key="16">Biete Orchideen aus ... an.</entry>
+		<entry key="17">Biete ... Orchideen an.</entry>
+		<entry key="18">Aktuelle Tauschliste auf Anfrage.</entry>
+		<entry key="19">Meine aktuelle Tauschliste schicke ich auf Anfrage zu.</entry>
+	</category>
+</textModule>

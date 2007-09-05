@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Conception - Introduction">
+		<entry key="1">Je me permets de vous écrire parce que je suis comme vous un collecteur des orchidées.</entry>
+		<entry key="2">Je suis membre de l'association ... .</entry>
+	</category>
+	<category key="2" title="Conception - Notifier la propre domaine d'intéresse">
+		<entry key="3">Je m'intéresse pour ... orchidées.</entry>
+		<entry key="4">Je m'intéresse pour des orchidées de ... .</entry>
+		<entry key="5">Je collecte des orchidées depuis ... ans.</entry>
+		<entry key="6">Je collecte ... orchidées.</entry>
+		<entry key="7">Je collecte des orchidées de ... .</entry>
+		<entry key="8">Je collecte des orchidées aussi.</entry>
+		<entry key="9">Je collecte aussi ... orchidées.</entry>
+		<entry key="10">Je collecte des orchidées de ... aussi.</entry>
+		<entry key="11">Mon attention générale se pose sur des ... orchidées.</entry>
+		<entry key="12">Mon attention générale se pose sur des orchidées de ... .</entry>
+	</category>
+	<category key="3" title="Conception - Ordre de l'échange">
+		<entry key="13">Donc je cherche toujours les possibilités d'échange.</entry>
+		<entry key="14">Je me réjouis d'avance de commencer l'échange des orchidées avec vous.</entry>
+		<entry key="15">Donc je vous offre de commencer avec l'échange des orchidées.</entry>
+	</category>
+	<category key="4" title="Recevoir un lettre">
+		<entry key="16">Merci beaucoup pour votre dernière lettre.</entry>
+		<entry key="17">Merci beaucoup pour ta dernière lettre.</entry>
+		<entry key="18">Excusez-moi, que je répond si tard.</entry>
+		<entry key="19">Excuses-moi, que je répond si tard.</entry>
+	</category>
+	<category key="5" title="Recevoir des orchidées">
+		<entry key="20">Merci beaucoup pour les orchidées.</entry>
+		<entry key="21">Je m'en ai trés réjoui.</entry>
+		<entry key="22">Elles sont vraiment trés belles.</entry>
+		<entry key="23">Elles sont trés utile pour ma collection.</entry>
+		<entry key="24">Elles accomodent trés bien dans ma collection.</entry>
+	</category>
+	<category key="6" title="Offre un service">
+		<entry key="25">Si je pourrais vous aider, je me réjouis beaucoup.</entry>
+		<entry key="26">Sie je pourrais vous aider aussi, je me réjouis beaucoup.</entry>
+		<entry key="27">Si je pourrais t'aider, je me réjouis beaucoup.</entry>
+		<entry key="28">Si je pourrais t'aider aussi, je me réjouis beaucoup.</entry>
+		<entry key="29">Est-ce que je peux rendre un service à vous?</entry>
+		<entry key="30">Est-ce que je peux rendre un service à vous aussi?</entry>
+		<entry key="31">Est-ce que je peux rendre und servibe à toi?</entry>
+		<entry key="32">Est-ce que je peux rendre und servibe à toi aussi?</entry>
+		<entry key="33">Laissez le me savoir si je pourrais vous aider aussi.</entry>
+		<entry key="34">Laissez le me savoir si je pourrais vous aider aussi aussi.</entry>
+		<entry key="35">Laisses le me savoir si je pourrais t'aider.</entry>
+		<entry key="36">Laisses le me savoir si je pourrais t'aider aussi.</entry>
+	</category>
+	<category key="7" title="Envoyer des orchidées">
+		<entry key="37">Donc je me permets de vous envoyer ... orchidées.</entry>
+		<entry key="38">Donc je me permets de vous envoyer des orchidées de ... . </entry>
+		<entry key="39">Donc je me permets de t'envoyer ... orchidées.</entry>
+		<entry key="40">Donc je me permets de t'envoyer des orchidées de... .</entry>
+	</category>
+	<category key="8" title="Chercher des orchidées">
+		<entry key="41">Je cherche des orchidées de ... .</entry>
+		<entry key="42">Je cherche ... orchidées.</entry>
+		<entry key="43">Je cherche des orchidée de ... pour l'échange.</entry>
+		<entry key="44">Je cherche ... orchidées pour l'échange.</entry>
+	</category>
+
+	<category key="9" title="Se renseigner des orchidées">
+		<entry key="45">Si vous avez quelques-uns pour me donner, je me réjouis beaucoup.</entry>
+		<entry key="46">Si tu as quelques-uns pour me donner, je me réjouis beaucoup.</entry>
+	</category>
+	<category key="10" title="Se renseigner de plus d'orchidée">
+		<entry key="47">Si vous avez plus d'orchidée de ..., je serrais trés hereux de laquelle.</entry>
+		<entry key="48">Si vous avez plus ... orchidée, je serrais trés hereux de laquelle.</entry>
+		<entry key="49">Si tu as plus d'orchidée de ..., je serrais trés hereux de laquelle.</entry>
+		<entry key="50">Si tu as plus ... orchidée, je serrais trés hereux de laquelle.</entry>
+		<entry key="51">Si vous trouvez plus d'orchidée de ..., je serrais trés hereux.</entry>
+		<entry key="52">Si vous trouvez plus ... orchidée, je serrais trés hereux.</entry>
+		<entry key="53">Si tu trouves plus d'orchidée de ..., je serrais trés hereux.</entry>
+		<entry key="54">Si tu trouves plus ... orchidée, je serrais trés hereux.</entry>
+	</category>
+	<category key="11" title="Offre des orchidées">
+		<entry key="55">Moi-même, je peux offrir des orchidées de ... pour échange.</entry>
+		<entry key="56">Moi-même, je peux offrir ... orchidées pour échange.</entry>
+		<entry key="57">Pour l'échange j'offre des orchidées de ...</entry>
+		<entry key="58">Pour l'échange j'offre ... orchidées.</entry>
+		<entry key="59">En plus, j'offre des orchidées de ...</entry>
+		<entry key="60">En plus, j'offre ... orchidées.</entry>
+	</category>
+	<category key="12" title="Envoyer des orchidées">
+		<entry key="61">Je vous envoie ... orchidées.</entry>
+		<entry key="62">Je vous envoie des orchidées de... .</entry>
+		<entry key="63">Je t'envoie ... orchidées.</entry>
+		<entry key="64">Je t'envoie des orchidées de... .</entry>
+		<entry key="65">Donc, je vous envoie ... orchidées.</entry>
+		<entry key="66">Donc, je vous envoie des orchidées de... .</entry>
+		<entry key="67">Donc, je t'envoie ... orchidées.</entry>
+		<entry key="68">Donc, je t'envoie des orchidées de... .</entry>
+		<entry key="69">J'espère qu'ils vous aident.</entry>
+		<entry key="70">J'espère qu'ils t'aident.</entry>
+	</category>
+	<category key="13" title="Phrase de fin">
+		<entry key="71">Je me réjouis d'avance de votre réponse.</entry>
+		<entry key="72">Je me réjouis d'avance de ta réponse.</entry>
+		<entry key="73">J'espère d'entendre bientôt de vous.</entry>
+		<entry key="74">J'espère d'entendre bientôt de toi.</entry>
+		<entry key="75">Merci beaucoup.</entry>
+		<entry key="76">Merci beaucoup pour vos efforts.</entry>
+		<entry key="77">Merci beaucoup pour tes efforts.</entry>
+	</category>
+</textModule>
+

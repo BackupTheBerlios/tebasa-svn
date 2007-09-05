@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/anni/Teba.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TebaSammler/jar_description.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=TebaMain/&lt;controller{Main.java[Main" manifestLocation="/TebaSammler/Manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=TebaSammler/&lt;model.listenerNotifier"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.dialogs"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;images"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;controller"/>
+        <file path="/TebaSammler/MessagesBundle_en_UK.properties"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.listenerNotifier"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;textModules"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.fileChooser"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;model"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.panels"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.actionListener"/>
+        <file path="/TebaSammler/MessagesBundle.properties"/>
+        <file path="/TebaSammler/properties.properties"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;model.models"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;controller.commands"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;dataFiles"/>
+        <javaElement handleIdentifier="=TebaMain/&lt;controller"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;model.items"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;controller.factories"/>
+        <file path="/TebaSammler/propertiesUserData.properties"/>
+        <javaElement handleIdentifier="=TebaSammler/&lt;gui.printables"/>
+    </selectedElements>
+</jardesc>

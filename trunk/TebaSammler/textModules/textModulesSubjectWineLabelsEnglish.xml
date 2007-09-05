@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<entry key="0"></entry>
+	<entry key="1">Received Labels</entry>
+	<entry key="2">Searching for wine labels from collecting area ...</entry>
+	<entry key="3">Wine labels</entry>
+	<entry key="4">Looking for wine labels from ...</entry>
+	<entry key="5">Looking for wine labels from wine-growing district ...</entry>
+	<entry key="6">Looking for wine labels from wine-growing districts ...</entry>
+	<entry key="7">Looking for wine labels on the topic ...</entry>
+	<entry key="8">Looking for wine labels on the topics ...</entry>
+	<entry key="9">Exchange in wine labels</entry>
+</textModule>

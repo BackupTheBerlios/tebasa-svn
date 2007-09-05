@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Conception - Introduction">
+		<entry key="0"></entry>
+		<entry key="1">Je me permets de vous écrire parce que je suis comme vous un collecteur des étiquettes de vin.</entry>
+		<entry key="2">Je suis collecteur des étiquettes de vin du région groupé ... .</entry>
+		<entry key="3">Je suis membre de l´association ... .</entry>
+	</category>
+	<category key="2" title="Conception - Notifier la propre domaine d´intéresse">
+		<entry key="4">Je m´intéresse pour des étiquettes de ... .</entry>
+		<entry key="5">Je m´intéresse pour des étiquettes du pays de ... .</entry>
+		<entry key="7">Je m´intéresse pour des étiquettes du domaine du thème ... .</entry>
+		<entry key="9">Je collecte des étiquettes depuis ... ans.</entry>
+		<entry key="10">Je collecte des étiquettes de ... .</entry>
+		<entry key="11">Je collecte aussi des étiquettes de ... .</entry>
+		<entry key="12">Je collecte des étiquettes de le ... .</entry>
+		<entry key="22">Mon attention générale se pose sur les étiquettes de ... .</entry>
+		<entry key="23">Mon attention générale se pose sur les étiquettes des pays de ... .</entry>
+		<entry key="25">Mon attention générale se pose sur les étiquettes du domaine du thème ... .</entry>
+	</category>
+	<category key="3" title="Conception - Ordre de l'échange">
+		<entry key="27">Dont je cherche toujours des possibilités d'échange.</entry>
+		<entry key="28">Je me réjouis d'avance de commencer l'échange des étiquettes avec vous.</entry>
+		<entry key="29">Dont je vous offre un échange des étiquettes.</entry>
+	</category>
+	<category key="4" title="Recevoir un lettre">
+		<entry key="30">Merci beaucoup pour votre dernière lettre.</entry>
+		<entry key="31">Merci beaucoup pour ta dernière lettre.</entry>
+		<entry key="32">Excusez moi que je repond si tard.</entry>
+		<entry key="33">Excuse moi que je repond si tard.</entry>
+	</category>
+	<category key="5" title="Recevoir des étiquettes">
+		<entry key="34">Merci beaucoup pour les étiquettes.</entry>
+		<entry key="35">Je m'en ai très réjoui.</entry>
+		<entry key="36">Elles sont vraiment très belles.</entry>
+		<entry key="37">Elles sont très utile pour ma collection.</entry>
+		<entry key="38">Elles s'accomodent très bien dans ma collection.</entry>
+	</category>
+	<category key="6" title="Offre un service">
+		<entry key="39">Si je pourrais vous aider, je me réjouis beaucoup.</entry>
+		<entry key="40">Si je pourrais vous aider aussi, ca me ferrait plaisir.</entry>
+		<entry key="43">Est-ce que je peux rendre un service à vous.</entry>
+		<entry key="47">Laissez me le savoir si je pourrais vous aider.</entry>
+	</category>
+	<category key="7" title="Envoyer des étiquettes">
+		<entry key="51">Donc je me permets de vous envoyer ... étiquettes.</entry>
+	</category>
+	<category key="8" title="Chercher des étiquettes">
+		<entry key="63">Je cherche des étiquettes de vin de ... .</entry>
+		<entry key="64">Je cherche des étiquettes de vin du pays de ... .</entry>
+		<entry key="65">Je cherche des étiquettes de vin des pays de ... .</entry>
+		<entry key="68">Je cherche des étiquettes de vin de ... pour échange.</entry>
+	</category>
+	<category key="9" title="Se renseigner des étiquettes">
+		<entry key="73">Si vous avez quelques-uns pour me donner, je me réjouis beaucoup.</entry>
+		<entry key="75">J'espère que tu trouves quelque chose de ... pour moi.</entry>
+	</category>
+	<category key="10" title="Se renseigner de plus d'étiquette">
+		<entry key="78">Si vous avez plus d'étiquettes de ..., je serait très heureux de laquelle.</entry>
+	</category>
+	<category key="11" title="Offre des étiquettes">
+		<entry key="90">Moi-même, je peux offrir des étiquettes de ... pour échange.</entry>
+		<entry key="95">Pour échange j'offre des étiquettes du pays de ... .</entry>
+		<entry key="99">En plus j'offre des étiquettes de vin domaine de thème ... et du pays de ... .</entry>
+	</category>
+	<category key="12" title="Envoyer des étiquettes">
+		<entry key="103">Je vais annexer ... étiquettes.</entry>
+		<entry key="104">Si joint vous trouvez ... étiquettes.</entry>
+		<entry key="105">Si joint vous trouvez des étiquettes de ... .</entry>
+		<entry key="110">Si joint tu trouves ... étiquettes.</entry>
+		<entry key="111">Si joint tu trouves des étiquettes de ... .</entry>
+	</category>
+	<category key="13" title="Phrase de fin">
+		<entry key="118">Je me réjouis d'avance de votre réponse.</entry>
+		<entry key="119">Je me réjouis d'avance de ta réponse.</entry>
+		<entry key="120">J'espère d'entendre bientôt de vous.</entry>
+		<entry key="122">Merci beaucoup.</entry>
+		<entry key="123">Merci beaucoup pour votre efforts.</entry>
+		<entry key="124">Merci beaucoup pour tes efforts.</entry>
+	</category>
+</textModule>

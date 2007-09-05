@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Achèter">
+		<entry key="0"></entry>
+		<entry key="1">(J') achéte des orchidées de toute sorte.</entry>
+		<entry key="2">(J') achéte des orchidées du domaine de ... .</entry>
+	</category>
+	<category key="2" title="Chercher">
+		<entry key="0"></entry>
+		<entry key="3">(Je) cherche des orchidées de toute sorte.</entry>
+		<entry key="4">(Je) cherche des orchidee pour échange.</entry>
+		<entry key="5">(Je) cherche des ochidées de ... .</entry>
+		<entry key="6">(Je) cherche ... orchidées.</entry>
+		<entry key="7">(Je) cherche des orchidées de ... pour échange.</entry>
+		<entry key="8">(Je) cherche ... orchdées pour échange.</entry>
+		<entry key="9">Je suis collectuer d'orchidées et je cherche les possiblités d'échange.</entry>
+	</category>
+	<category key="3" title="Information additionnelle">
+		<entry key="0"></entry>
+		<entry key="10">Celles doivent être de... .</entry>
+		<entry key="11">Celles doivent être ... .</entry>		
+		<entry key="12">(J') offre en riposte les orchidées de ... .</entry>
+		<entry key="13">(J') offre en riposte ... orchidées.</entry>
+		<entry key="14">En plus (j') offre des orchidées de ... .</entry>
+		<entry key="15">En plus (j') offre ... orchidées.</entry>
+		<entry key="16">(J') offre des orchidées de ... .</entry>
+		<entry key="17">(J') offre des ... orchidées.</entry>
+		<entry key="18">Liste d'échange actuelle sur demande.</entry>
+		<entry key="19">(J') envois ma liste d'échange actuelle sur demande.</entry>
+	</category>
+</textModule>
