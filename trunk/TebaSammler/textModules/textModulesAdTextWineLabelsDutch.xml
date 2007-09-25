@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Kopen">
+		<entry key="0"></entry>
+		<entry key="1">Koop alle soorten wijnetiketten.</entry>
+		<entry key="2">Koop wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="3">Koop wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="4">Koop wijnetiketten met het thema .... .</entry>
+		<entry key="5">Koop wijnetiketten met de thema's .... .</entry>
+	</category>
+	<category key="2" title="Zoeken">
+		<entry key="0"></entry>
+		<entry key="6">Zoek alle soorten wijnetiketten.</entry>
+		<entry key="7">Zoek wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="8">Zoek wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="9">Zoek wijnetiketten met het thema ... .</entry>
+		<entry key="10">Zoek wijnetiketten met de thema's ... .</entry>
+		<entry key="11">Zoek wijnetiketten van het aanbouwgebied ... om te ruilen.</entry>
+		<entry key="12">Zoek wijnetiketten van de aanbouwgebieden ... om te ruilen.</entry>
+		<entry key="13">Zoek wijnetiketten met thema ... om te ruilen.</entry>
+		<entry key="14">Zoek wijnetiketten met de thema's ... om te ruilen.</entry>
+		<entry key="15">Ik ben wijnetiketten verzamelaar en zoek ruilmogelijkheden.</entry>
+	</category>
+	<category key="3" title="Bieden">
+		<entry key="0"></entry>
+		<entry key="16">Bied wijnetiketten van het aanbouwgebied ... aan.</entry>
+		<entry key="17">Bied wijnetiketten van de aanbouwgebieden ... aan.</entry>
+		<entry key="18">Bied wijnetiketten met thema .... aan.</entry>
+		<entry key="19">Bied wijnetiketten met de thema's... aan.</entry>
+		<entry key="20">Daarvoor bied ik wijnetiketten van het aanbouwgebied ... aan.</entry>
+		<entry key="21">Daarvoor bied ik wijnetiketten van de aanbouwgebieden ... aan.</entry>
+		<entry key="22">Daarvoor bied ik wijnetiketten met het thema ... aan.</entry>
+		<entry key="23">Daarvoor bied ik wijnetiketten met de thema's  ... aan.</entry>
+		<entry key="24">Bied wijnetiketten van het aanbouwgebied ... aan.</entry>
+		<entry key="25">Bied wijnetiketten van de aanbouwgebieden ... aan.</entry>
+		<entry key="26">Bied wijnetiketten met het thema ... aan.</entry>
+		<entry key="27">Bied wijnetiketten met de thema's  ... aan.</entry>
+		<entry key="28">Bied wijnetiketten van de aanbouwgebieden ... en uit de landen ... aan.</entry>
+	</category>
+	<category key="4" title="Verdere informatie">
+		<entry key="0"></entry>
+		<entry key="29">Recente ruillijst op aanvraag.</entry>
+		<entry key="30">Mijn recente ruillijst stuur ik op aanvraag toe.</entry>
+	</category>
+</textModule>

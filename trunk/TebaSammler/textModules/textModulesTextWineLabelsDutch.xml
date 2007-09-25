@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+<textModule>
+	<category key="0" title=""></category>
+	<category key="1" title="Voorstellen - Inleiding">
+		<entry key="0"></entry>
+		<entry key="1">Hierbij laat ik u weten dat ik, net als u, een wijnetiketten verzamelaar ben.</entry>
+		<entry key="2">Ik ben wijnetiketten verzamelaar met als speciaal verzamelgebied ... .</entry>
+		<entry key="3">Ik ben lid van de vereniging ... .</entry>
+	</category>
+	<category key="2" title="Voorstelling – Eigen interessegebied aangeven">
+		<entry key="0"></entry>
+		<entry key="4">Ik ben geinteresseerd in .... wijnetiketten.</entry>
+		<entry key="5">Ik ben geinteresseerd in wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="6">Ik ben geinteresseerd in wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="7">Ik ben geinteresseerd in wijnetiketten met het thema ... .</entry>
+		<entry key="8">Ik ben geinteresseerd in wijnetiketten met de thema's ... .</entry>
+		<entry key="9">Ik verzamel ... jaren wijnetiketten.</entry>
+		<entry key="10">Ik verzamel wijnetiketten van ... .</entry>
+		<entry key="11">Ik verzamel ook wijnetiketten van ... .</entry>
+		<entry key="12">Ik verzamel wijnetiketten uit ... .</entry>
+		<entry key="13">Ik verzamel ook wijnetiketten uit ... .</entry>
+		<entry key="14">Ik verzamel wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="15">Ik verzamel ook wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="16">Ik verzamel wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="17">Ik verzamel ook wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="18">Ik verzamel wijnetiketten met het thema ... .</entry>
+		<entry key="19">Ik verzamel ook wijnetiketten met het thema ... .</entry>
+		<entry key="20">Ik verzamel wijnetiketten met de thema's ... .</entry>
+		<entry key="21">Ik verzamel ook wijnetiketten met de thema's ... .</entry>
+		<entry key="22">Mijn hoofddoel zijn wijnetiketten van ... .</entry>
+		<entry key="23">Mijn hoofddoel zijn wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="24">Mijn hoofddoel zijn wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="25">Mijn hoofddoel zijn wijnetiketten met het thema ... . </entry>
+		<entry key="26">Mijn hoofddoel zijn wijnetiketten met de thema's ... . </entry>
+	</category>
+	<category key="3" title="Voorstelling – Uitnodiging om te ruilen">
+		<entry key="0"></entry>
+		<entry key="27">Daarom zoek ik steeds ruilmogelijkheden.</entry>
+		<entry key="28">Ik zou het op prijs stellen met u wijnetiketten te kunnen ruilen.</entry>
+		<entry key="29">Daarom bied ik u een wijnetikettenruil aan.</entry>
+	</category>
+	<category key="4" title="Ontvangen brief">
+		<entry key="0"></entry>
+		<entry key="30">Hartelijk dank voor uw laatste brief.</entry>
+		<entry key="31">Hartelijk dank voor je laatste brief.</entry>
+		<entry key="32">Sorry voor mijn late reactie.</entry>
+		<entry key="33">Sorry voor mijn late reactie.</entry>
+	</category>
+	<category key="5" title="Ontvangen wijnetiketten">
+		<entry key="0"></entry>
+		<entry key="34">Hartelijk dank voor de wijnetiketten.</entry>
+		<entry key="35">Ik was er zeer blij mee.</entry>
+		<entry key="36">Ze zijn werkelijk heel mooi.</entry>
+		<entry key="37">Ze zijn waardevol voor mijn verzameling.</entry>
+		<entry key="38">Ze zijn een aanvulling voor mijn verzameling.</entry>
+	</category>
+	<category key="6" title="Hulp aanbieden">
+		<entry key="0"></entry>
+		<entry key="39">Het zou me plezier doen als ik u ergens mee kan helpen.</entry>
+		<entry key="40">Het zou me plezier doen als ik u ook ergens mee kan helpen.</entry>
+		<entry key="41">Het zou me plezier doen als ik je ergens mee kan helpen.</entry>
+		<entry key="42">Het zou me plezier doen als ik je ook ergens mee kan helpen.</entry>
+		<entry key="43">Kan ik u ergens mee helpen?</entry>
+		<entry key="44">Kan ik u ook ergens mee helpen?</entry>
+		<entry key="45">Kan ik je ergens mee helpen?</entry>
+		<entry key="46">Kan ik je ook ergens mee helpen?</entry>
+		<entry key="47">Laat me weten wanneer ik u kan helpen.</entry>
+		<entry key="48">Laat me weten wanneer ik u ook kan helpen.</entry>
+		<entry key="49">Laat me weten wanneer ik je kan helpen.</entry>
+		<entry key="50">Laat me weten wanneer ik je ook kan helpen.</entry>
+	</category>
+	<category key="7" title="Wijnetiketten versturen">
+		<entry key="0"></entry>
+		<entry key="51">Hierbij stuur ik u  ... wijnetiketten.</entry>
+		<entry key="52">Hierbij stuur ik u wijnetiketten van ... .</entry>
+		<entry key="53">Hierbij stuur ik u wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="54">Hierbij stuur ik u wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="55">Hierbij stuur ik u wijnetiketten met het thema ... .</entry>
+		<entry key="56">Hierbij stuur ik u wijnetiketten met de thema's ... .</entry>
+		<entry key="57">Hierbij stuur ik je ..... wijnetiketten.</entry>
+		<entry key="58">Hierbij stuur ik je wijnetiketten van ... .</entry>
+		<entry key="59">Hierbij stuur ik je wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="60">Hierbij stuur ik je wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="61">Hierbij stuur ik je wijnetiketten met het thema ... .</entry>
+		<entry key="62">Hierbij stuur ik je wijnetiketten met de thema's... .</entry>
+	</category>
+	<category key="8" title="Wijnetiketten zoeken">
+		<entry key="0"></entry>
+		<entry key="63">Ik zoek wijnetiketten van ... .</entry>
+		<entry key="64">Ik zoek wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="65">Ik zoek wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="66">Ik zoek wijnetiketten met het thema ... .</entry>
+		<entry key="67">Ik zoek wijnetiketten met de thema's ... .</entry>
+		<entry key="68">Ik zoek wijnetiketten van  ... om te ruilen.</entry>
+		<entry key="69">Ik zoek wijnetiketten van het aanbouwgebied ... om te ruilen.</entry>
+		<entry key="70">Ik zoek wijnetiketten van de aanbouwgebieden ... om te ruilen.</entry>
+		<entry key="71">Ik zoek wijnetiketten met het thema ... om te ruilen.</entry>
+		<entry key="72">Ik zoek wijnetiketten met de thema's  ... om te ruilen.</entry>
+	</category>
+	<category key="9" title="Naar wijnetiketten vragen">
+		<entry key="0"></entry>
+		<entry key="73">Het zou mij plezier doen als u wijnetiketten voor mij heeft.</entry>
+		<entry key="74">Het zou mij plezier doen als je wijnetiketten voor mij hebt.</entry>
+		<entry key="75">Ik hoop dat je voor mij wat van  ... kunt vinden.</entry>
+		<entry key="76">Ik hoop dat je voor mij wat van het aanbouwgebied  ... kunt vinden.</entry>
+		<entry key="77">Ik hoop dat je voor mij wat van het thema ... kunt vinden.</entry>
+	</category>
+	<category key="10" title="Naar meer wijnetiketten vragen">
+		<entry key="0"></entry>
+		<entry key="78">Ik ben u zeer dankbaar als u meer wijnetiketten van ... voor mij heeft.</entry>
+		<entry key="79">Ik ben u zeer dankbaar als u meer wijnetiketten van het aanbouwgebied ... voor mij heeft.</entry>
+		<entry key="80">Ik ben u zeer dankbaar als u meer wijnetiketten met het thema ... voor mij heeft.</entry>
+		<entry key="81">Wanneer je meer wijnetiketten van  ... voor mij hebt, ben ik je zeer dankbaar.</entry>
+		<entry key="82">Wanneer je meer wijnetiketten van het aanbouwgebied .... voor mij hebt, ben ik je zeer dankbaar.</entry>
+		<entry key="83">Wanneer je meer wijnetiketten met het thema  ... voor mij hebt, ben ik je zeer dankbaar.</entry>
+		<entry key="84">Wanneer u meer wijnetiketten van ... kunt vinden, ben ik u zeer dankbaar.</entry>
+		<entry key="85">Wanneer u meer wijnetiketten van het aanbouwgebied  ... kunt vinden, ben ik u zeer dankbaar.</entry>
+		<entry key="86">Wanneer u meer wijnetiketten met het thema ... kunt vinden, ben ik u zeer dankbaar.</entry>
+		<entry key="87">Wanneer je meer wijnetiketten van  ... kunt vinden, ben ik je dankbaar.</entry>
+		<entry key="88">Wanneer je meer wijnetiketten van het aanbouwgebied .... kunt vinden, ben ik je dankbaar.</entry>
+		<entry key="89">Wanneer je meer wijnetiketten met het thema ... kunt vinden, ben ik je dankbaar.</entry>
+	</category>
+	<category key="11" title="Wijnetiketten aanbieden">
+		<entry key="0"></entry>
+		<entry key="90">Ik kan van  ... wijnetiketten aanbieden om te ruilen.</entry>
+		<entry key="91">Ik kan van het aanbouwgebied ... wijnetiketten aanbieden om te ruilen.</entry>
+		<entry key="92">Ik kan van de aanbouwgebieden  ... wijnetiketten aanbieden om te ruilen.</entry>
+		<entry key="93">Ik kan van het thema ... wijnetiketten aanbieden om te ruilen.</entry>
+		<entry key="94">Ik kan van de thema's  ... wijnetiketten aanbieden om te ruilen.</entry>
+		<entry key="95">Om te ruilen bied ik wijnetiketten van het aanbouwgebied ... aan.</entry>
+		<entry key="96">Om te ruilen bied ik wijnetiketten van de aanbouwgebieden ... aan.</entry>
+		<entry key="97">Om te ruilen bied ik wijnetiketten met het thema ... aan.</entry>
+		<entry key="98">Om te ruilen bied ik wijnetiketten met de thema's ... aan.</entry>
+		<entry key="99">Daarvoor bied ik wijnetiketten met het thema ... en het aanbouwgebied ...  aan.</entry>
+		<entry key="100">Daarvoor bied ik wijnetiketten met de thema's ... en de aanbouwgebieden ... aan.</entry>
+		<entry key="101">Daarvoor bied ik wijnetiketten met het thema ... en de aanbouwgebieden ... aan.</entry>
+		<entry key="102">Daarvoor bied ik wijnetikettenmet de thema's  ... en het aanbouwgebied ... aan.</entry>
+	</category>
+	<category key="12" title="Wijnetiketten bijvoegen">
+		<entry key="0"></entry>
+		<entry key="103">Ik voeg .. wijnetiketten bij.</entry>
+		<entry key="104">Hierbij vindt u  ... wijnetiketten.</entry>
+		<entry key="105">Hierbij vindt u wijnetiketten van ... .</entry>
+		<entry key="106">Hierbij vindt u wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="107">Hierbij vindt u wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="108">Hierbij vindt u wijnetiketten met het thema ... .</entry>
+		<entry key="109">Hierbij vindt u wijnetiketten met de thema's ... .</entry>
+		<entry key="110">Hierbij vind je ... wijnetiketten.</entry>
+		<entry key="111">Hierbij vind je wijnetiketten van ... .</entry>
+		<entry key="112">Hierbij vind je wijnetiketten van het aanbouwgebied ... .</entry>
+		<entry key="113">Hierbij vind je wijnetiketten van de aanbouwgebieden ... .</entry>
+		<entry key="114">Hierbij vind je wijnetiketten met het thema ... .</entry>
+		<entry key="115">Hierbij vind je wijnetiketten met de thema's ... .</entry>
+		<entry key="116">Ik hoop dat ze u verder helpen.</entry>
+		<entry key="117">Ik hoop dat ze je verder helpen.</entry>
+	</category>
+	<category key="13" title="Afsluiting">
+		<entry key="0"></entry>
+		<entry key="118">Ik zie uw antwoord gaarne tegemoet.</entry>
+		<entry key="119">Ik zie je antwoord gaarne tegemoet.</entry>
+		<entry key="120">Ik hoop spoedig iets van u te horen.</entry>
+		<entry key="121">Ik hoop spoedig iets van je te horen.</entry>
+		<entry key="122">Alvast bedankt.</entry>
+		<entry key="123">Alvast bedankt voor uw moeite.</entry>
+		<entry key="124">Alvast bedankt voor je moeite.</entry>
+	</category>
+</textModule>

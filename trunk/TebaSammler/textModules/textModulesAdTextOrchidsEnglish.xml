@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <!--
 TebaSa is a software for creating letters in foreign languages
 on the basis of text modules.
@@ -20,8 +19,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see http://www.gnu.org/licenses/.
 -->
-
-
 
 <textModule>
 	<category key="0" title=""></category>

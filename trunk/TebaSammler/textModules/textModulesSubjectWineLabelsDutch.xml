@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+TebaSa is a software for creating letters in foreign languages
+on the basis of text modules.
+
+Copyright (C) 2007  Antje Huber
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+
+<textModule>
+	<entry key="0"></entry>
+	<entry key="1">Ontvangen etiketten</entry>
+	<entry key="2">Zoek etiketten van het verzamelgebied ...</entry>
+	<entry key="3">Wijnetiketten</entry>
+	<entry key="4">Zoek wijnetiketten uit ...</entry>
+	<entry key="5">Zoek wijnetiketten van het aanbouwgebied ...</entry>
+	<entry key="6">Zoek wijnetiketten van de aanbouwgebieden ...</entry>
+	<entry key="7">Zoek wijnetiketen met het thema ...</entry>
+	<entry key="8">Zoek wijnetiketten met de thema's ...</entry>
+	<entry key="9">Wijnetiketten ruilen</entry>
+</textModule>
