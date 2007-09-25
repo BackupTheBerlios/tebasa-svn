@@ -26,8 +26,14 @@ along with this program. If not, see http://www.gnu.org/licenses/.
 <modelEntries>
 	<entry>English-German</entry>
 	<entry>English-French</entry>
+	<entry>English-Dutch</entry>
 	<entry>French-German</entry>
 	<entry>French-English</entry>
+	<entry>French-Dutch</entry>
 	<entry>German-French</entry>
 	<entry>German-English</entry>
+	<entry>German-Dutch</entry>
+	<entry>Dutch-German</entry>
+	<entry>Dutch-French</entry>
+	<entry>Dutch-English</entry>
 </modelEntries>
